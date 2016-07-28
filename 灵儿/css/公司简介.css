@@ -1,0 +1,80 @@
+.saber{
+	width: 100%;
+	height: 1189px;
+	min-width: 1140px;
+	position: relative;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	left: 0;
+}
+
+.middle{
+	width: 100%;
+	height: 100%;
+	background: url(../introdimg/bg.png);
+	background-size: cover;
+	overflow: hidden;
+}
+.mid{
+	width: 1146px;
+	height: 1013px;
+	margin: 0 auto;
+	margin-top: 31px;
+	background: url(../introdimg/bg0.png);
+	background-size: cover;
+	overflow: hidden;
+}
+.middle .mid .essay{
+	width: 1064px;
+	margin: 0 auto;
+	margin-top: 89px;
+}
+.middle .mid .essay .t{
+	width: 1064px;
+	height: 280px;
+	overflow: hidden;
+}
+.middle .mid .essay .cen{
+	margin-top: 30px;
+}
+.middle .mid .essay .cen div{
+	float: left;
+	font-size: 12px;
+	color: #3b3b3b;
+	width: 661px;
+	text-indent: 24px;
+}
+.middle .mid .essay .cen div p{
+	margin-bottom: 8px;
+}
+.middle .mid .essay .cen div .none{
+	margin-bottom: 0;
+}
+.middle .mid .essay .cen img{
+	float: right;
+	width: 326px;
+	height: 234px;
+	margin-left: 33px;
+}
+.middle .mid .essay .b{
+	margin-top: 34px;
+}
+.middle .mid .essay .b .i3{
+	float: left;
+	width: 496px;
+	height: 234px;
+	overflow: hidden;
+}
+.middle .mid .essay .b .i3 img{
+	margin-top: -26px;
+}
+.middle .mid .essay .b .i4{
+	float: right;
+	width: 493px;
+	height: 234px;
+	overflow: hidden;
+}
+.middle .mid .essay .b .i4 img{
+	margin-top: -26px;
+}

@@ -1,0 +1,139 @@
+.saber{
+	width: 100%;
+	height: 920px;
+	min-width: 1140px;
+	position: relative;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	left: 0;
+}
+.middle{
+	width: 100%;
+	height: 100%;
+	background: url(../trendimg/bg.png);
+	background-size: cover;
+}
+.middle .mid{
+	width: 1140px;
+	margin: 0 auto;
+}
+.middle .mid .titile{
+	width: 1140px;
+	height: 64px;
+	line-height: 64px;
+	border-bottom: 1px #1f1a2e solid;
+	font-size: 18px;
+	color: #fff;
+	margin-bottom: 30px;
+}
+.middle .mid .essay{
+	width: 1140px;
+}
+.middle .mid .essay .ess{
+	float: left;
+	width: 565px;
+	height: 115px;
+	font-size: 12px;
+	height: #3b3b3b;
+	background: #fff;
+	margin-top: 14px;
+}
+.middle .mid .essay .ess img,.middle .mid .essay .ess div{
+	float: left;
+}
+.middle .mid .essay .ess div{
+	width: 380px;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+.middle .mid .essay .ess img{
+	width: 139px;
+	height: 86px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.middle .mid .essay .ess div .foot{
+	text-align: right;
+}
+.middle .mid .essay .ess a{
+	font-size: 14px;
+}
+.middle .mid .essay .ess div .head{
+	margin-top: 4px;
+}
+
+.middle .mid .essay .ess0{
+	float: right;
+	width: 565px;
+	height: 115px;
+	font-size: 12px;
+	height: #3b3b3b;
+	background: #fff;
+	margin-top: 14px;
+}
+.middle .mid .essay .ess0 img,.middle .mid .essay .ess0 div{
+	float: left;
+}
+.middle .mid .essay .ess0 div{
+	width: 380px;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+.middle .mid .essay .ess0 img{
+	width: 139px;
+	height: 86px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.middle .mid .essay .ess0 div .foot{
+	text-align: right;
+}
+.middle .mid .essay .ess0 a{
+	font-size: 14px;
+}
+.middle .mid .essay .ess0 div .head{
+	margin-top: 4px;
+}
+.middle .mid .page{
+	margin-top: 25px;
+	text-align: right;
+	font-size: 12px;
+	color: #fff;
+	line-height: 24px;
+}
+.middle .mid .page a{
+	float: right;
+	width: 24px;
+	height: 24px;
+	background: #ebebeb;
+	font-size: 12px;
+	text-align: center;
+	line-height: 24px;
+	margin-right: 4px;
+}
+.middle .mid .page .next,.middle .mid .page .last{
+	width: 54px;
+}
+.middle .mid .page .go{
+	margin-right: 0;
+	margin-left: 8px;
+	background: #7b2783;
+	color: #fff;
+}
+.middle .mid .page span{
+	float: right;
+}
+.middle .mid .page input{
+	float: right;
+	width: 38px;
+	height: 24px;
+	background: #ebebeb;
+	margin-left: 10px;
+	margin-right: 8px;
+	text-align: center;
+}
+.middle .mid .page a:hover{
+	background: #7b2783;
+	color: #fff;
+}

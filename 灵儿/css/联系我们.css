@@ -1,0 +1,205 @@
+.saber{
+	width: 100%;
+	height: 100%;
+	min-width: 1140px;
+	position: relative;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	left: 0;
+}
+/*上边框*/
+.top{
+	width: 100%;
+	height: 42px;
+	background: #010102;
+}
+.top .logo{
+	width: 1140px;
+	height: 42px;
+	line-height: 42px;
+	margin: 0 auto;
+	font-size: 12px;
+	color: #fff;
+}
+.top .logo span{
+	float: left;
+}
+.top .logo a{
+	float: left;
+	width: 60px;
+	height: 41px;
+	text-align: center;
+	font-size: 12px;
+	color: #fff;
+}
+.top .logo .sy{
+	margin-left: 85px;
+}
+.top .logo .zs{
+	margin-left: 48px;
+}
+.top .logo .jj{
+	margin-left: 39px;
+}
+.top .logo .wh{
+	margin-left: 39px;
+}
+.top .logo .qg{
+	width: 108px;
+	margin-left: 22px;
+}
+.top .logo .zy{
+	margin-left: 22px;
+}
+.top .logo .zx{
+	margin-left: 40px;
+}
+.top .logo .zsh{
+	margin-left: 38px;
+}
+.top .logo .fs{
+	margin-left: 39px;
+}
+.top .logo .ly{
+	margin-left: 39px;
+}
+.top .logo .i{
+	width: 12px;
+	height: 18px;
+	margin-left: 39px;
+}
+.top .logo i{
+	float: left;
+	margin-top: 15px;
+	width: 12px;
+	height: 18px;
+	background: url(../connactimg/search.png);
+}
+.top .logo a:hover{
+	color: #f150ff;
+	border-bottom: 1px #f150ff solid;
+}
+.top .logo .i:hover{
+	color: #fff;
+	border:none;
+}
+/*下边框*/
+.bottom{
+	width: 100%;
+	height: 85px;
+	background: #f4f4f4;
+/*	position: absolute;
+	left: 0;
+	bottom: 0;*/
+}
+.bottom .bot{
+	width: 1140px;
+	height: 85px;
+	line-height: 85px;
+	margin: 0 auto;
+}
+.bottom .bot a{
+	float: left;
+	font-size: 12px;
+	margin-left: 30px;
+	color: #666666;
+}
+.bottom .bot .a1{
+	margin-left: 0;
+}
+.bottom .bot span{
+	float: right;
+	font-size: 12px;
+	color: #666666;
+}
+/*中部内容*/
+.middle{
+	width: 100%;
+	height: 100%;
+	background: url(../connactimg/bg.png) no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+.middle .connact{
+	width: 570px;
+	margin: 0 auto;
+	margin-top: 54px;
+}
+.middle .connact .con{
+	width: 107px;
+	height: 34px;
+	background: #cb00da;
+	font-size: 20px;
+	color: #fff;
+	border-left: 1px #e9aded solid;
+	text-align: center;
+	line-height: 34px;
+}
+.middle .connact .word{
+	width: 570px;
+	height: 140px;
+	background: #ffffff;
+	font-size: 14px;
+	color: #666666;
+	overflow: hidden;
+}
+.middle .connact .word .co{
+	margin-top: 25px;
+	margin-left: 14px;
+}
+.middle .connact .word .co1{
+	margin-top: 15px;
+	margin-left: 14px;
+}
+.middle .connact .word .co .em{
+	margin-right: 150px;
+}
+.middle .connact .word .co1 .add{
+	margin-right: 137px;
+}
+.middle .connact .word .co p{
+	float: left;
+}
+.middle .connact .word .co1 p{
+	float: left;
+}
+.middle .connact .word .titile{
+	font-size: 16px;
+	font-weight: bold;
+	color: #3b3b3b;
+	margin-left: 14px;
+	margin-top: 20px;
+}
+.middle .connact .word .co .email{
+	float: left;
+	width: 12px;
+	height: 14px;
+	background: url(../connactimg/less.png);
+}
+.middle .connact .word .co .phone{
+	float: left;
+	width: 13px;
+	height: 21px;
+	background: url(../connactimg/less.png) -15px 0;
+}
+.middle .connact .word .co1 .address{
+	float: left;
+	width: 14px;
+	height: 19px;
+	background: url(../connactimg/less.png) -28px 0;
+}
+.middle .connact .word .co1 .net{
+	float: left;
+	width: 12px;
+	height: 15px;
+	background: url(../connactimg/less.png) 0 -23px;
+}
+.middle .map{
+	width: 325px;
+	height: 150px;
+	margin:0 auto;
+	margin-top: 80px;
+	background: url(../connactimg/map.png);
+	background-size: contain;
+}
